@@ -2625,6 +2625,7 @@ button,
 
 /* Custom Banner Section */
 #custom-banner {
+  font-size: 1em;
   display: flex;
   flex-wrap: wrap; /* 창 크기에 따라 줄바꿈 허용 */
   align-items: center; /* 수직 정렬 */
